@@ -1,0 +1,8 @@
+{
+  "name": "هەڤالێ هونەری - باشترین هەڤالێ بەهدینی",
+  "description": "هەڤالێ دلسۆز، خەمخۆر، سعبەتباز و نزیکترین کەس بۆ هونەری ب زاراڤێ شیرین و کولانکی یێ بەهدینی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
